@@ -24,3 +24,5 @@ defmodule Template2 do
     end
   end
 end
+#file = Template2.render()
+#File.write("index.html", file, [:append])
